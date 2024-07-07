@@ -1,3 +1,7 @@
+## Description 
+
+Built a Flask web application which performs annotation services for genomics file inputs using AWS services such as EC2, S3, DynamoDB, SQS, SNS, Glacier, SES, & maintained performance with scaling capabilities through AWS Auto Scaling & Cloudwatch.
+
 # gas-framework
 An enhanced web framework (based on [Flask](http://flask.pocoo.org/)) for use in the capstone project. Adds robust user authentication (via [Globus Auth](https://docs.globus.org/api/auth)), modular templates, and some simple styling based on [Bootstrap](http://getbootstrap.com/).
 
