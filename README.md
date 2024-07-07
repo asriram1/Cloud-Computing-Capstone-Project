@@ -1,4 +1,4 @@
-## Description 
+# Description 
 
 Built a Flask web application which performs annotation services for genomics file inputs using AWS services such as EC2, S3, DynamoDB, SQS, SNS, Glacier, SES, & maintained performance with scaling capabilities through AWS Auto Scaling & Cloudwatch.
 
